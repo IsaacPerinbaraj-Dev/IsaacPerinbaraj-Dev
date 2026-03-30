@@ -16,6 +16,14 @@
 > I actively explore how **artificial intelligence, system design, and cloud technologies** can be combined to build efficient, production-ready solutions.
 
 ---
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacPerinbaraj-Dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacPerinbaraj-Dev&theme=tokyonight" />
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
